@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38202c62-05c2-4718-82b4-8c6e5753e3eb" name="Default Changelist" comment="" />
+    <list default="true" id="38202c62-05c2-4718-82b4-8c6e5753e3eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/yhg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/yhg.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,8 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/yhg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="350">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -239,7 +242,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -388,7 +391,7 @@
       <workItem from="1559263213184" duration="2677000" />
       <workItem from="1559284516481" duration="2861000" />
       <workItem from="1559538549755" duration="5398000" />
-      <workItem from="1559608908688" duration="2584000" />
+      <workItem from="1559608908688" duration="3744000" />
     </task>
     <task id="LOCAL-00001" summary="two two">
       <created>1559610606310</created>
@@ -411,11 +414,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559611547058</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="two two ad爱妃">
+      <created>1559611805787</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559611805787</updated>
+    </task>
+    <task id="LOCAL-00005" summary="two two ad 啊的">
+      <created>1559612782305</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559612782305</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29611000" />
+    <option name="totallyTimeSpent" value="30771000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -428,6 +445,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -504,7 +522,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="two two" />
-    <option name="LAST_COMMIT_MESSAGE" value="two two" />
+    <MESSAGE value="two two ad爱妃" />
+    <MESSAGE value="two two ad 啊的" />
+    <option name="LAST_COMMIT_MESSAGE" value="two two ad 啊的" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -601,8 +621,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/yhg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -617,7 +637,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

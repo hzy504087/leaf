@@ -8,6 +8,7 @@ public class yhg {
             String str = yhg.next();
             System.out.println(str);
             System.out.println("+++++++++++++++++++++");
+            System.out.println("+++++++++++++++++++++");
         }
     }
 }
