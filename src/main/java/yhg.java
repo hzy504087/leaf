@@ -7,6 +7,7 @@ public class yhg {
             //利用nextXXX()方法输出内容
             String str = yhg.next();
             System.out.println(str);
+            System.out.println("+++++++++++++++++++++");
         }
     }
 }
