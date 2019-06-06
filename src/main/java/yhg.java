@@ -20,7 +20,7 @@ public class yhg {
         System.out.println(Math.atan2(i,aa));
         if(Character.isLetter('c')){
             System.out.println(a);
-
+            System.out.println("=================");
         }
     }
 }
