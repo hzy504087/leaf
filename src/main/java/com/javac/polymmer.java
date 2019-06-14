@@ -3,6 +3,7 @@ package com.javac;
 public class polymmer {
     public static void main(String[] args) {
         donwu ff=new donwu();
+
         ff.a();
         cat fff=new cat();
         gg(fff);
